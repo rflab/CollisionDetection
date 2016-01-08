@@ -21,6 +21,7 @@ mathに依存しているのでインクルードしたほうがいいのかも�
 		- 平面(Plane)
 		- 三角形(Tri)
 		- 四角形(Square)
+		- 視垂台(Frustum)
 		- Axis Aligned Bounding Box(Aabb)
 		- Oriented Bounding Box(Obb)
 ```
