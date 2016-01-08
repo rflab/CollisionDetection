@@ -24,3 +24,6 @@ mathに依存しているのでインクルードしたほうがいいのかも�
 		- Axis Aligned Bounding Box(Aabb)
 		- Oriented Bounding Box(Obb)
 ```
+
+# 詳細
+[ヘッダ見てください。](https://github.com/rflab/CollisionDetection/blob/master/collision/collisiondetectfunction.h)
